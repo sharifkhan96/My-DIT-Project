@@ -1,0 +1,14 @@
+body{
+
+/*
+background:yellow; standard color
+background: rgb(50,80,30);  this is red green blue color 
+background: rgba(60,70,30,0.1); this is alpha rgb
+background: hsl(50,70%,90%); hue saturation lightness 
+background: hsla(10,80%,90%,0.2);  this is alpha hsl 
+background: linear-gradiant; this will show the screen like flickering 
+background: #ea5876;    this is hexadecimal */
+background-image: url(beach.jpg);
+background-attachment: fixed;
+background-position: right;
+}

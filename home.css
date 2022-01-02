@@ -1,0 +1,60 @@
+/*.ira{
+
+
+
+position: fixed
+
+}*/
+
+.headthree{color: black; background:  lightpink; text-decoration: blink; text-shadow: 1px 1px 2px green; letter-spacing: 3px;
+
+
+font-family: algerian;
+font-size: 18px;
+
+
+}
+
+.paragraph{text-align: justify; line-height: 25px; word-spacing: 8px;}
+
+.dir{text-indent: 8px; color: maroon; text-shadow: 1px 1px 1px black; font-family: helvetica;}
+
+
+.imgfirst{text-decoration: blink;}
+
+.usnews{
+
+	text-align: justify;
+
+}
+
+
+
+.more{
+
+
+	background: orange;
+
+
+}
+
+.more:hover{
+
+	background: lightgreen;
+}
+
+.signwith{
+
+	text-decoration: underline;
+
+}
+
+.signwith:hover{
+
+	background:yellow;
+}
+
+/*a:visited{
+
+	background: blue;
+}*/

@@ -1,0 +1,35 @@
+body{
+
+
+
+background:linear-gradient(brown,blue);
+
+
+
+
+
+}
+
+
+
+h1{
+
+
+border:medium groove white;  /* border-top, border-bottom, border-right & left can be used,   (widht=thin, thick, medium)   (style=dotted, dashed, groove, inset, outset, double, ridge, solid)  (color=any color i.e coral)*/
+border-top-left-radius:42px;
+padding-left: 50px;
+background: coral;
+/* we can also use margin like padding */
+
+}
+
+p{
+
+border: 3px  inset white;
+padding: 9px;
+line-height: 23px;
+text-align:justify;
+word-spacing: 4px;
+border-radius: 25px;
+background: white;
+}

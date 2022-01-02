@@ -1,0 +1,47 @@
+body{
+
+	margin: 0 auto;
+}
+
+/* position:static, relative, absolute, fixed; 
+overflow is used for scrolling
+float is used for aligning
+clear is used for downing an object
+z-index -1 is used to scroll the scrolling obj or text below the fixed one
+z-index +1 is used to scroll the scrooling obj or text above the fixed one
+*/
+.about{
+
+width:100%;
+height: 80px;
+background: darkblue;
+color: white;
+text-decoration: underline;
+font-variant: small-caps;
+font-family: magenta;
+text-align: center;
+font-size: 70px;
+position: fixed;
+
+}
+
+.hrp{
+
+
+position: relative;
+top: 120px;
+z-index: -1;
+text-align: justify;
+overflow: auto;
+padding: 10px;
+
+
+
+}
+
+img{
+
+padding-left: 13px;
+
+}
+
